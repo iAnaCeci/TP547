@@ -11,6 +11,7 @@ O foco do trabalho está na aplicação de técnicas de simulação para modelag
 - Avaliação de desempenho de sistemas de comunicação
 
 ✅ Trabalho 1
+
 ⏳ Trabalho 2
 ## Autores
 
