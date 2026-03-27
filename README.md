@@ -1,6 +1,18 @@
-# TP547
-Este repositório contém estudos, implementações e experimentos desenvolvidos na disciplina Princípios de Simulação de Sistemas de Comunicação.
+# TP547 - Princípios de Simulação de Sistemas de Comunicação
 
-A disciplina aborda técnicas estatísticas e computacionais utilizadas para modelar e analisar sistemas de comunicação por meio de simulação. Em vez de implementar diretamente sistemas físicos, utilizam-se modelos probabilísticos e experimentos computacionais para avaliar o desempenho de sistemas sob diferentes condições.
+Este repositório reúne estudos, implementações e experimentos desenvolvidos na disciplina **Princípios de Simulação de Sistemas de Comunicação**.
 
-Essas técnicas são amplamente utilizadas na análise de redes sem fio, transmissão digital, sistemas IoT e redes modernas de comunicação.
+O foco do trabalho está na aplicação de técnicas de simulação para modelagem e análise de sistemas probabilísticos, incluindo:
+
+- Geração de variáveis aleatórias
+- Distribuições de probabilidade (Poisson, Binomial, entre outras)
+- Métodos de Monte Carlo
+- Estimativas estatísticas, como média, variância e intervalos de confiança
+- Avaliação de desempenho de sistemas de comunicação
+
+✅ Trabalho 1
+⏳ Trabalho 2
+## Autores
+
+- Ana Cecilia — Matrícula: 972  
+- Pedro Lopes — Matrícula: 878  
