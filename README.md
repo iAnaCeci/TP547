@@ -12,7 +12,9 @@ O foco do trabalho está na aplicação de técnicas de simulação para modelag
 
 ✅ Trabalho 1
 
-⏳ Trabalho 2
+✅ Trabalho 2
+
+⏳ Trabalho final parte 1
 ## Autores
 
 - Ana Cecilia — Matrícula: 972  
