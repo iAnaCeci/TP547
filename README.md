@@ -14,9 +14,11 @@ O foco do trabalho está na aplicação de técnicas de simulação para modelag
 
 ✅ Trabalho 2
 
-✅ Trabalho final parte 1
+✅ Trabalho Final Parte 1
 
-⏳ Trabalho - Gerador e receptor de sinais FSK
+✅ Trabalho - Gerador e receptor de sinais FSK
+
+⏳ Trabalho Final Parte 2
 ## Autores
 
 - Ana Cecilia — Matrícula: 972  
