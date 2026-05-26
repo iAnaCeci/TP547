@@ -18,7 +18,9 @@ O foco do trabalho está na aplicação de técnicas de simulação para modelag
 
 ✅ Trabalho - Gerador e receptor de sinais FSK
 
-⏳ Trabalho Final Parte 2
+✅ Trabalho Final Parte 2
+
+⏳ Trabalho Markov ACD
 ## Autores
 
 - Ana Cecilia — Matrícula: 972  
