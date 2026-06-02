@@ -20,7 +20,9 @@ O foco do trabalho está na aplicação de técnicas de simulação para modelag
 
 ✅ Trabalho Final Parte 2
 
-⏳ Trabalho Markov ACD
+✅ Trabalho Markov ACD
+
+⏳ Trabalho Final Parte 3
 ## Autores
 
 - Ana Cecilia — Matrícula: 972  
